@@ -13,4 +13,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/satyam14102008-design/LeetCode/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [2747-count-zero-request-servers](https://github.com/satyam14102008-design/LeetCode/tree/master/2747-count-zero-request-servers) |
+## Hash Table
+|  |
+| ------- |
+| [2747-count-zero-request-servers](https://github.com/satyam14102008-design/LeetCode/tree/master/2747-count-zero-request-servers) |
+## Sliding Window
+|  |
+| ------- |
+| [2747-count-zero-request-servers](https://github.com/satyam14102008-design/LeetCode/tree/master/2747-count-zero-request-servers) |
+## Sorting
+|  |
+| ------- |
+| [2747-count-zero-request-servers](https://github.com/satyam14102008-design/LeetCode/tree/master/2747-count-zero-request-servers) |
 <!---LeetCode Topics End-->
