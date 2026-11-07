@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1882-process-tasks-using-servers](https://github.com/satyam14102008-design/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/satyam14102008-design/LeetCode/tree/master/2747-count-zero-request-servers) |
 ## Hash Table
 |  |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/satyam14102008-design/LeetCode/tree/master/2747-count-zero-request-servers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1882-process-tasks-using-servers](https://github.com/satyam14102008-design/LeetCode/tree/master/1882-process-tasks-using-servers) |
 <!---LeetCode Topics End-->
