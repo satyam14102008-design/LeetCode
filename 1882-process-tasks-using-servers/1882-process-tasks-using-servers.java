@@ -1,19 +1,25 @@
+import java.util.*;
+
 class Solution {
     public int[] assignTasks(int[] servers, int[] tasks) {
         int n = servers.length;
         int m = tasks.length;
+
         int[] ans = new int[m];
         
         // Free servers: [weight, index]
         PriorityQueue<int[]> free = new PriorityQueue<>((a, b) -> {
-            if (a[0] != b[0]) return a[0] - b[0];
+            if (a[0] != b[0]) 
+                return a[0] - b[0];
             return a[1] - b[1];
         });
         
         // Busy servers: [freeTime, weight, index]
         PriorityQueue<int[]> busy = new PriorityQueue<>((a, b) -> {
-            if (a[0] != b[0]) return a[0] - b[0];
-            if (a[1] != b[1]) return a[1] - b[1];
+            if (a[0] != b[0])
+                 return a[0] - b[0];
+            if (a[1] != b[1]) 
+                return a[1] - b[1];
             return a[2] - b[2];
         });
         
@@ -41,8 +47,14 @@ class Solution {
             while (!queue.isEmpty() && !free.isEmpty()) {
                 int task = queue.poll();
                 int[] s = free.poll();
+
                 ans[task] = s[1];
-                busy.offer(new int[]{time + tasks[task], s[0], s[1]});
+
+                busy.offer(new int[]{
+                    time + tasks[task], 
+                    s[0], 
+                    s[1]
+                });
             }
             
             // Advance time intelligently
