@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/satyam14102008-design/LeetCode/tree/master/0002-add-two-numbers) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/satyam14102008-design/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Recursion
 |  |
 | ------- |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3693-climbing-stairs-ii](https://github.com/satyam14102008-design/LeetCode/tree/master/3693-climbing-stairs-ii) |
+## Greedy
+|  |
+| ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/satyam14102008-design/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 <!---LeetCode Topics End-->
