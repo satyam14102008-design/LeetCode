@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/satyam14102008-design/LeetCode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/satyam14102008-design/LeetCode/tree/master/0009-palindrome-number) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/satyam14102008-design/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/satyam14102008-design/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Recursion
