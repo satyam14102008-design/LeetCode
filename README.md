@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/satyam14102008-design/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/satyam14102008-design/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/satyam14102008-design/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/satyam14102008-design/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/satyam14102008-design/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/satyam14102008-design/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/satyam14102008-design/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/satyam14102008-design/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/satyam14102008-design/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/satyam14102008-design/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Tree
 |  |
@@ -167,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/satyam14102008-design/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/satyam14102008-design/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
